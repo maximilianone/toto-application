@@ -1,0 +1,12 @@
+com\epam\training\toto\domain\Round$Builder.class
+com\epam\training\toto\service\InputService.class
+com\epam\training\toto\domain\Hit$Builder.class
+com\epam\training\toto\domain\Round$1.class
+com\epam\training\toto\App.class
+com\epam\training\toto\domain\Hit.class
+com\epam\training\toto\domain\Outcome.class
+com\epam\training\toto\domain\Round.class
+com\epam\training\toto\service\TotoService.class
+com\epam\training\toto\domain\Hit$1.class
+com\epam\training\toto\service\RoundParser.class
+com\epam\training\toto\service\UACurrencyFormatter.class
